@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "paper": "^0.12.0",
+        "paper": "^0.12.17",
         "vite": "^4.1.4"
     },
     "scripts": {
