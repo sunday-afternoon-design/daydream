@@ -8,7 +8,7 @@ window.onload = function() {
     let index = map(window.innerWidth, 0, 2048, 0, 1);
 
 
-    let mid = window.innerWidth * .2;
+    let mid = window.innerHeight * .5;
     let bottom = (257.1 - 189.9) * index + mid;
     let top = (137.9 - 189.9) * index + mid;
 
@@ -456,7 +456,7 @@ window.onload = function() {
         index = map(window.innerWidth, 0, 2048, 0, 1);
 
 
-        mid = window.innerWidth * .2;
+        mid = window.innerHeight * .5;
         bottom = (257.1 - 189.9) * index + mid;
         top = (137.9 - 189.9) * index + mid;
 
